@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\FileWatcher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\FileWatcher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\FileWatcher.csproj",
+        "projectName": "FileWatcher",
+        "projectPath": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\FileWatcher.csproj",
+        "packagesPath": "C:\\Users\\Migliorelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Migliorelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

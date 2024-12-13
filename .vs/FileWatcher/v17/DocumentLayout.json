@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|c:\\users\\migliorelli\\documents\\arquivos\\learning-csharp\\filewatcher\\filewatcher\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|c:\\users\\migliorelli\\documents\\arquivos\\learning-csharp\\filewatcher\\filewatcher\\services\\filewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\services\\filewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FileWatcher||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|c:\\users\\migliorelli\\documents\\arquivos\\learning-csharp\\filewatcher\\filewatcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|c:\\users\\migliorelli\\documents\\arquivos\\learning-csharp\\filewatcher\\filewatcher\\services\\systemtrayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\services\\systemtrayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEAB39-056F-4D0E-ABF1-5834B42F3A38}|FileWatcher\\FileWatcher.csproj|c:\\users\\migliorelli\\documents\\arquivos\\learning-csharp\\filewatcher\\filewatcher\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 147,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWatcher",
+              "DocumentMoniker": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\FileWatcher.csproj",
+              "RelativeDocumentMoniker": "FileWatcher\\FileWatcher.csproj",
+              "ToolTip": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\FileWatcher.csproj",
+              "RelativeToolTip": "FileWatcher\\FileWatcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T02:34:10.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileWatcher\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\MainWindow.xaml",
+              "RelativeToolTip": "FileWatcher\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T02:29:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SystemTrayService.cs",
+              "DocumentMoniker": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\Services\\SystemTrayService.cs",
+              "RelativeDocumentMoniker": "FileWatcher\\Services\\SystemTrayService.cs",
+              "ToolTip": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\Services\\SystemTrayService.cs",
+              "RelativeToolTip": "FileWatcher\\Services\\SystemTrayService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:28:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWatcherService.cs",
+              "DocumentMoniker": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\Services\\FileWatcherService.cs",
+              "RelativeDocumentMoniker": "FileWatcher\\Services\\FileWatcherService.cs",
+              "ToolTip": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\Services\\FileWatcherService.cs",
+              "RelativeToolTip": "FileWatcher\\Services\\FileWatcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:20:31.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FileWatcher\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Migliorelli\\Documents\\Arquivos\\learning-csharp\\FileWatcher\\FileWatcher\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "FileWatcher\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:17:07.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

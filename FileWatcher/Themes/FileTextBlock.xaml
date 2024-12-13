@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="TextBlock" x:Key="FileTextBlock">
+
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding Text}" Value="">
+                <Setter Property="Text" Value="Select the file." />
+            </DataTrigger>
+        </Style.Triggers>
+
+
+    </Style>
+
+</ResourceDictionary>
