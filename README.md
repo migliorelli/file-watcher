@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - Author: **Migliorelli**
-- Email: [miglenti@gmail.com](mailto:miglenti@gmail.com)
+- Email: [miglenten@gmail.com](mailto:miglenten@gmail.com)
